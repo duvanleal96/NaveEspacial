@@ -7,7 +7,7 @@ package naveespacial;
 
 /**
  *
- * @author Jennifer Chacón
+ * @author Duvan Leal
  */
 public class Nave {
     
